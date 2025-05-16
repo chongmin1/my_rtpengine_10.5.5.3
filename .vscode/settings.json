@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.inc": "c",
+        "recording.h": "c",
+        "main.h": "c",
+        "inotify.h": "c",
+        "log.h": "c",
+        "db.h": "c",
+        "output.h": "c",
+        "packet.h": "c",
+        "types.h": "c",
+        "rtplib.h": "c"
+    }
+}
